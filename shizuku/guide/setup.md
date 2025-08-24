@@ -1,4 +1,5 @@
 # User manual
+bahdim![Screenshot_2025-08-24-08-52-40-980_com ss android ugc trill](https://github.com/user-attachments/assets/dad0d00a-89e3-4f1e-a4bf-e0dd29c2a6e4)
 
 [[toc]]
 
